@@ -1,4 +1,2 @@
 # Swiggy-data-Exploration
-Exploratory Data Analysis
-Swiggy, a popular food delivery platform, can provide insights into various aspects of its operation and user behavior.
-This Dataset is a comprehensive collection of data related to restaurants available on the Swiggy food delivery platform. And provides valuable information about various aspects of restaurants, enabling users to explore, analyze, and gain insights into the restaurant landscape on Swiggy.
+Exploratory Data Analysis of Swiggy, a renowned food delivery platform, offers a profound understanding of its operational dynamics and user behavior. This dataset presents an extensive compilation of restaurant-related data accessible on the Swiggy platform, offering invaluable insights into diverse facets of restaurants. It empowers users to delve into, scrutinize, and extract meaningful insights from Swiggy's restaurant ecosystem.
